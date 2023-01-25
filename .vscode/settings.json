@@ -3,6 +3,7 @@
 		"love",
 		"score",
 		"pipeTimer",
-		"generatePipe"
+		"generatePipe",
+		"obstacle"
 	]
 }
